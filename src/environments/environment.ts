@@ -4,6 +4,6 @@
 // add a more comments to create a new push
 export const environment = {
   production: false,
-  apiUrl: "http://localhost:8080/api/v1/lolchampion/"
+  apiUrl: "https://lol-champions-ose2-champs.apps.ose.openshift.conygre.com/api/v1/lolchampion/"
   //apiUrl: "http://franks-lolchampion-demo-franks-lolchampion-demo.emeadocker65.conygre.com/api/v1/lolchampion/"
 };
